@@ -16,7 +16,7 @@ Our goal is to predict whether a meme is hateful or non-hateful. This is a binar
 
 Why is this task so difficult? As you can see in **Facebook paper** (https://arxiv.org/pdf/2005.04790.pdf), the human is far from being perfect (only AUC of 82.65%!) when it comes to classify images into hateful or not hateful ones. Irony is hard to catch and also sometimes it can be really confusing.
 
-![alt text](https://github.com/SebKleiner/Project_ITC_Data_Mining/blob/master/flowchart_webscraper.png?raw=true)
+![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/submission3.JPG?raw=true)
 
 ## Table of Contents
 
