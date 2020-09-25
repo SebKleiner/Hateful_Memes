@@ -23,6 +23,10 @@ Why is this task so difficult? As you can see in **Facebook paper** (https://arx
 
 ![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/fb_scores.JPG?raw=true)
 
+Do you think the following examples are easy for a machine to classify?
+
+![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/hateful.JPG?raw=true)
+
 ## Overview 
 
 - Facebook provides 10000 images, classified into train set (8500 pictures with a hateful-rate of 35/65), development set (500 images with a ratio of 50/50) and a test set of 1000 images to provide the probability associated to the event.
