@@ -2,7 +2,7 @@
 
 ## How do you end up in the top 5% of a U$S100000 competition?
 
-![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/fb_scores.JPG?raw=true)
+![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/submission3.JPG?raw=true)
 
 This is an approach to the Facebook Hateful Memes challenge (https://www.drivendata.org/competitions/64/hateful-memes/) for our final Data Science project in ITC
 
@@ -16,7 +16,7 @@ Our goal is to predict whether a meme is hateful or non-hateful. This is a binar
 
 Why is this task so difficult? As you can see in **Facebook paper** (https://arxiv.org/pdf/2005.04790.pdf), the human is far from being perfect (only AUC of 82.65%!) when it comes to classify images into hateful or not hateful ones. Irony is hard to catch and also sometimes it can be really confusing.
 
-![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/submission3.JPG?raw=true)
+![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/fb_scores.JPG?raw=true)
 
 ## Table of Contents
 
@@ -29,9 +29,7 @@ Why is this task so difficult? As you can see in **Facebook paper** (https://arx
 - Feature engineering: remove **stop words** (considering both English and Twitter corpuses), **elongated word treatment** (replacing 'niiiiice' with 'nice'), **sentiment analysis** (polarity and subjectivity over the text)
 - Data transformation: **CountVectorizer**, **Tfidf vectorizer**, computing **distances** between text/object and text/label to catch irony
 - Balancing training dataset
-- Modeling:
-
-● Logistic Regression
+- Modeling: ● Logistic Regression
 ● Random Forest Classifier
 ● Naive Bayes Classifier
 ● AdaBoost Classifier
