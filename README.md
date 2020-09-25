@@ -10,17 +10,18 @@ This is an approach to the Facebook Hateful Memes challenge (https://www.drivend
 
 > What is **Israel Tech Challenge**? ITC opens the door for talented professionals from Israel and abroad to develop their careers in technology while focusing on the most in-demand skills in tech. Located in a beautiful campus in Tel Aviv, we offer our students intensive tech training in English, inspired by the IDF’s 8200 unit, and job placement assistance to our graduates. To date, we’ve introduced over 500 alumni to the Israeli hi-tech industry.
 
-> Problem Description:
+## Table of Contents
+
+- [Problem Description](#Problem Description)
+- [Overview](#Overview)
+
+## Problem Description:
 
 Our goal is to predict whether a meme is hateful or non-hateful. This is a binary classification problem with **multimodal** input data consisting of the the meme image itself (the image mode) and a string representing the text in the meme image (the text mode).
 
 Why is this task so difficult? As you can see in **Facebook paper** (https://arxiv.org/pdf/2005.04790.pdf), the human is far from being perfect (only AUC of 82.65%!) when it comes to classify images into hateful or not hateful ones. Irony is hard to catch and also sometimes it can be really confusing.
 
 ![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/fb_scores.JPG?raw=true)
-
-## Table of Contents
-
-- [Overview](#Overview)
 
 ## Overview 
 
