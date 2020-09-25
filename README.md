@@ -1,8 +1,8 @@
 # Hateful Memes
 
-## How do you end up in the top 5% of a 100000 USD competition?
+## How do you end up in the top 5% of a U$S100000 competition?
 
-![alt text](https://github.com/SebKleiner/Project_ITC_Data_Mining/blob/master/flowchart_webscraper.png?raw=true)
+![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/fb_scores.JPG?raw=true)
 
 This is an approach to the Facebook Hateful Memes challenge (https://www.drivendata.org/competitions/64/hateful-memes/) for our final Data Science project in ITC
 
