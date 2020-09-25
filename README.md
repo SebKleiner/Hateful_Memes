@@ -23,10 +23,9 @@ Why is this task so difficult? As you can see in **Facebook paper** (https://arx
 
 ![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/fb_scores.JPG?raw=true)
 
-
 Do you think the following examples are easy for a machine to classify?
 
-
+ 
 ![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/hateful.JPG?raw=true)
 
 ## Overview 
