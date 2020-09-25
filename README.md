@@ -30,9 +30,7 @@ Why is this task so difficult? As you can see in **Facebook paper** (https://arx
 - Feature engineering: remove **stop words** (considering both English and Twitter corpuses), **elongated word treatment** (replacing 'niiiiice' with 'nice'), **sentiment analysis** (polarity and subjectivity over the text)
 - Data transformation: **CountVectorizer**, **Tfidf vectorizer**, computing **distances** between text/object and text/label to catch irony
 - Balancing training dataset
-- Modeling:
-
-● Logistic Regression
+- Modeling:● Logistic Regression
 ● Random Forest Classifier
 ● Naive Bayes Classifier
 ● AdaBoost Classifier
