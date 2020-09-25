@@ -25,7 +25,8 @@ Why is this task so difficult? As you can see in **Facebook paper** (https://arx
 
 Do you think the following examples are easy for a machine to classify?
 
-<br>
+<br/>
+
 ![alt text](https://github.com/SebKleiner/Hateful_Memes/blob/master/hateful.JPG?raw=true)
 
 ## Overview 
