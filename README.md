@@ -12,10 +12,10 @@ This is an approach to the Facebook Hateful Memes challenge (https://www.drivend
 
 ## Table of Contents
 
-- [Problem Description](#Problem Description)
+- [Problem Description](#TheProblem)
 - [Overview](#Overview)
 
-## Problem Description:
+## TheProblem:
 
 Our goal is to predict whether a meme is hateful or non-hateful. This is a binary classification problem with **multimodal** input data consisting of the the meme image itself (the image mode) and a string representing the text in the meme image (the text mode).
 
