@@ -30,16 +30,20 @@ Why is this task so difficult? As you can see in **Facebook paper** (https://arx
 - Feature engineering: remove **stop words** (considering both English and Twitter corpuses), **elongated word treatment** (replacing 'niiiiice' with 'nice'), **sentiment analysis** (polarity and subjectivity over the text)
 - Data transformation: **CountVectorizer**, **Tfidf vectorizer**, computing **distances** between text/object and text/label to catch irony
 - Balancing training dataset
-- Modeling: ● Logistic Regression
+- Modeling:
+
+● Logistic Regression
 ● Random Forest Classifier
 ● Naive Bayes Classifier
 ● AdaBoost Classifier
 ● Linear Support Vector Classifier
-● Logistic regression over probabilities obtained of the best parameters for each model (Grid search CV)
-● NN with Dense layers + dropout (avoid overfitting) - Different layer sizes, regularization terms (avoid overfitting), dropout rates, activation functions
-● RNN
-● Embedding layer + Bidirectional LSTM + Dropout
+● Logistic regression on top of probabilities obtained ob those classifiers
+● Leafs from ensembles as features for a logistic regression
+● Simple NN
+● Simple RNN's architectures
+● RNN: Embedding layer + Bidirectional LSTM
 
+The best model obtained so far is **Logistic regression on top of probabilities obtained ob those classifiers**
 
 ## Badges
 > Warning: The following badges are for display purposes only and may be considered fake news as they do not reflect actual information about this page. 
