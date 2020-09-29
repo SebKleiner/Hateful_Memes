@@ -44,7 +44,7 @@ Do you think the following images are easy for a machine to classify?
 ● AdaBoost Classifier
 ● Linear Support Vector Classifier
 ● Logistic regression on top of probabilities obtained ob those classifiers
-● Leafs from ensembles as features for a logistic regression
+● Leaves from ensembles as features for a logistic regression
 ● Simple NN
 ● Simple RNN's architectures
 ● RNN: Embedding layer + Bidirectional LSTM
