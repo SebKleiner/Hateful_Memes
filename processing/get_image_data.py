@@ -2,7 +2,7 @@ import io
 from google.cloud import vision
 import os
 
-password_file = "processing/itclabels-c7c19d400923.json"  # Write here yours
+password_file = "write here yours"  # Write here yours
 # path = 'uploads/01235.png'
 
 
